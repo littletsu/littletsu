@@ -6,7 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Common Lisp   1 hr 27 mins    █████████████████████████   100.00 %
+JavaScript    1 hr 27 mins    ████████████░░░░░░░░░░░░░   47.58 %
+Common Lisp   1 hr 27 mins    ████████████░░░░░░░░░░░░░   47.42 %
+EJS           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
