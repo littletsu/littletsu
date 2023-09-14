@@ -1,2 +1,2 @@
 
-<img src="https://github.com/littletsu/littletsu/blob/master/1657399894054.jpg?raw=true"><br>
+<img src="https://raw.githubusercontent.com/littletsu/littletsu/master/1694607055649669.jpg"><br>
